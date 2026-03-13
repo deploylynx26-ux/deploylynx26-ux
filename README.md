@@ -35,15 +35,6 @@ DeployLynx is a technology company focused on building modern AI tools, automati
 ![Cloud](https://img.shields.io/badge/Cloud-Infrastructure-orange?style=for-the-badge)
 ![DevOps](https://img.shields.io/badge/DevOps-CI/CD-red?style=for-the-badge)
 
----
-
-## ⚡ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Infrastructure-orange?style=for-the-badge) 
 
 ---
 ## 🎯 Mission
